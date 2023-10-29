@@ -1,0 +1,2 @@
+# cryptopunks-subgraph
+subsquid
